@@ -1,4 +1,4 @@
-StudySync – Responsive Educational Website (HTML & CSS)
+# StudySync – Responsive Educational Website (HTML & CSS)
 
 StudySync is a fully responsive, self-made educational landing page developed using pure HTML5 and CSS3. The project focuses on clean UI design, structured layout, and modern responsive techniques to deliver a smooth user experience across devices.
 
